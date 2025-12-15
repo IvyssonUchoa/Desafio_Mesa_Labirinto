@@ -120,9 +120,9 @@ A comunicação entre tarefas é protegida por **Mutex**, garantindo integridade
 
 ---
 
-# Video demonstrativo do funcionamento 
+## Video demonstrativo do funcionamento 
 
-* No vídeo é possivel ver o funcionamento e a explicação completa do sistema.
+No vídeo é possivel ver o funcionamento e a explicação completa do sistema.
 * [Assista ao vídeo do projeto aqui](https://youtube.com/shorts/KlTK687V3Gc)
 
 ---
